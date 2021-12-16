@@ -1,0 +1,191 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #e7e6e6;
+}
+#block {
+	margin: 20px auto;
+	width: 1200px;
+	height: 600px;
+
+}
+
+nav p {
+	width: 820px;
+	text-align: center;
+	height: 50px;
+}
+nav {
+	width: 820px;
+	background: #fff;
+	position: absolute;
+	margin: 0 0 0 300px;
+	padding: 0 0 0 80px;
+	overflow: hidden;
+	height: 50px;
+
+	
+
+}
+a {
+	margin:0 5px 0 0;
+	background: #fff;
+	float: left;
+	height: 50px;
+	width: 80px;
+	text-decoration: none;
+	font-size: 15px;
+	color: black;
+	text-align: center;
+	
+
+}
+
+
+.last_block {
+	width: 50px;
+	margin: auto auto;	
+	height: 50px;
+	text-align: center;
+	padding: 0 0 5px 0;
+	
+
+}
+.last_block:hover {
+	background: #29a2ff;
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	margin: auto auto ;
+
+}
+.photo_ {
+	background: white;
+	height: 250px;
+	width: 270px ;
+	margin: 0 0 0 0;
+	float: left;
+	border-radius: 50%;
+
+
+}
+.about_me {
+	background: #fff;
+	height: 400px;
+	width: 900px;
+	position: absolute;
+	margin-top: 85px; 
+	margin-left: 300px;
+    line-height: 1px;
+    border-radius: 50px;
+    float: right;
+}
+.under_my_photo {
+	height: 70px;
+	width: 270px;
+	background: #29a2ff ;
+	position: absolute;  
+    top:200px;  
+    line-height: 1px;
+    font-size: 25px;
+    border-radius: 50px;
+    overflow: hidden;
+
+    
+
+}
+
+
+h1 {
+	font-size: 40px;
+	font-weight: 900;
+	margin-left: 50px;
+	margin-top: 120px;
+}
+h2 {
+	margin-left: 50px;
+	margin-top: 40px;
+	font-weight: 400;
+}
+h3 {
+	font-size: 25px;
+	text-align: center;
+	font-style: oblique;
+}
+h4 {
+	font-size: 25px;
+	font-weight: 100;
+	margin-top: 25px;
+	margin-left: 50px;
+}
+h5 {
+	margin: 70px 0 0 0;
+}
+p {
+	font-size: 15px;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
+.menu_ {
+	margin-left: 5px;
+	padding-top: 15px;
+	margin: 0 ;
+	padding-bottom: 15px;
+	height: 20px;
+	font-weight: 300;
+	
+}
+.menu_:hover {
+	background: #29a2ff;
+	height: 20px;
+	text-align: center;
+	border-radius: 20px;
+
+}
+.View_Profile {
+	margin-left: 50px;
+	width: 250px;
+	height: 50px;
+	background: #29a2ff;
+	text-align: center;
+	color: #fff;
+	margin-top: 15px ;
+	position: absolute;
+	font-size: 0px;
+	border-radius: 50px;
+
+
+}
+.View_Profile p {
+	margin-left: 30px ;
+	margin-top: 23px;
+	font-size: 25px;
+	
+}
+.img_1 {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	margin-left: 10px;
+}
+
+#right_footer {
+	background: #fff;
+	height: 240px;
+	width: 270px;
+	margin:0 1000px 0 0  ;
+	overflow: hidden;
+	float: left;
+	font-weight: 700;
+}
+.my_social {
+	height: 40px;
+	width: 40px;
+	background:  #29a2ff;
+	margin: 10px 5px;
+	margin-left: 20px;
+	border-radius: 50px;
+}
